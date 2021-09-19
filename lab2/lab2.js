@@ -12,5 +12,5 @@ else
 function transform(anyobject){ 
     var arr = Object.entries(anyobject); 
 } 
- 
+  
 transform(obj);
